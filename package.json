@@ -1,0 +1,21 @@
+{
+  "name": "api-jarvis",
+  "version": "1.0.0",
+  "description": "Jadineiro Autonomo de Regar Vasos Intenos e de Sacada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "express"
+  ],
+  "author": "Abraao Pinto",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
